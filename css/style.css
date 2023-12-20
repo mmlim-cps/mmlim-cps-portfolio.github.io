@@ -1,0 +1,70 @@
+body{
+    background-color:#9F86C0;
+}
+nav{
+    background-color:#2f055d;
+}
+.nav-font{
+    color:#5E548E;
+}
+.small-photo{
+    border: 10px double #5E548E;
+}
+.card{
+    background-color: #BE95C4;
+}
+footer,a{
+    background-color:#2f055d;
+    color:#9F86C0;
+    font-family: 'Castoro Titling', serif;
+    font-family: 'Kaisei Tokumin', serif;
+}
+hr{
+    border-top:7px double white;
+}
+.heading{
+    background-image: url(media-css/purple-pic.jpeg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:cover;
+}
+.ttext{
+    color:#BE95C4;
+}
+.btn:hover{
+    color:#5E548E;
+}
+.nav-font:hover{
+    color:#BE95C4;
+}
+#logo:hover{
+    color:#BE95C4;
+}
+#logo{
+    color:#BE95C4;
+    position:relative;
+    top:4px;
+}
+nav{
+    font-family: 'Emilys Candy', serif;
+}
+.nav-link{
+    font-size:24px;
+}
+.name, h1{
+    font-family: 'Castoro Titling', serif;
+}
+.text{
+    font-family: 'Castoro Titling', serif;
+    font-family: 'Kaisei Tokumin', serif;
+}
+.llist{
+    background-color:#212529;
+    color:white;
+}
+.dark-purple{
+    color:#2f055d;
+}
+a:hover{
+    color:#5E548E;
+}
